@@ -1,0 +1,10 @@
+>>> shoplist = ['apple', 'mango', 'carrot', 'banana']
+>>> shoplist[::1]
+['apple', 'mango', 'carrot', 'banana']
+>>> shoplist[::2]
+['apple', 'carrot']
+>>> shoplist[::3]
+['apple', 'banana']
+>>> shoplist[::-1]
+['banana', 'carrot', 'mango', 'apple']
+
